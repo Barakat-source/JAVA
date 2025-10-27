@@ -1,4 +1,4 @@
-package src;
+
 import java.io.*;
 import java.util.*;
 import java.text.SimpleDateFormat;
@@ -112,4 +112,5 @@ public class TestProgram {
             System.err.println("Erreur lors de la lecture du fichier: " + e.getMessage());
         }
     }
+
 }
